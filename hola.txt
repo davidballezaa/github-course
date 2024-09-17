@@ -4,5 +4,7 @@ Alumnos:
 
 - Sofia
 - Pepe
+- Michael
+- El Pepe
 
 Esto es de la SAITC
