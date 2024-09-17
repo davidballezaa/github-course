@@ -4,6 +4,6 @@ Alumnos:
 
 - Sofia
 - Pepe
-- Ricardo Salgado
+- Ricardo
 
 Esto es de la SAITC
