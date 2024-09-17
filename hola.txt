@@ -4,5 +4,6 @@ Alumnos:
 
 - Sofia
 - Pepe
+-Ricardo Gomez Novelo
 
 Esto es de la SAITC
