@@ -2,6 +2,7 @@ Hola, mi nombre es David
 
 Alumnos: 
 
+- David Balleza
 - Sofia
 - Pepe
 
