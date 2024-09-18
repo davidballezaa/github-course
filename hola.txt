@@ -6,5 +6,6 @@ Alumnos:
 - Pepe
 - Ricardo Salgado
 -Ricardo Gomez
+-Jazmin Padilla
 
 Esto es de la SAITC
